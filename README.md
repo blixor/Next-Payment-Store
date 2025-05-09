@@ -1,4 +1,3 @@
-# Next.js 14 Online Store
 
 This is a [Next.js 14](https://nextjs.org/docs) Online Store app that uses App Router, [NextAuth](https://next-auth.js.org/) (Google Provider), [NextUI](https://nextui.org/), and [TailwindCSS](https://tailwindcss.com/). 
 
@@ -47,7 +46,3 @@ To get started.
          CVC: 567
          Expiration Date: 12/34
 ```
-
-Go to [Next.js 14 Online Store Video](https://youtu.be/lZnUgYTFq6E) page
-
-Go to [Next.js 14 Online Store Description](https://ashot72.github.io/Next.js-14-Online-Store/doc.html) page
